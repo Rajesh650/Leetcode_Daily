@@ -77,5 +77,5 @@ def containsDuplicate(nums):
 #driver code
 arr = [1,2,3,1]
 # arr = [1,2,3,4]
-result = ContainsDuplicate(arr)
+result = containsDuplicate(arr)
 print(result)
